@@ -1,0 +1,117 @@
+.container{
+    max-width: 80%;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 20px;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+  }
+  
+  td, th {
+    
+    text-align: left;
+    padding: 8px;
+  }
+.ds-4{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    height: 250px;
+    border-radius: 10px;
+    align-items: center;
+    font-size: 120px;
+    
+    
+}
+
+
+.ic div {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.ic img{
+    width: 200px;
+    border-radius: 50%;
+    
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+    
+}
+ 
+.ic img:hover {
+    border: 3px solid blue;
+}
+
+.icon-1 {
+    background-color: antiquewhite;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.icon-2 {
+    background-color: antiquewhite;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.icon-3 {
+    background-color: antiquewhite;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.icon-4 {
+    background-color: antiquewhite;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+
+.icon-1:hover {
+    background-color: rgb(82, 82, 250);
+}
+
+.icon-2:hover {
+    background-color: rgb(254, 72, 72);
+}
+.icon-3:hover {
+    background-color: blue;
+}
+.icon-4:hover {
+    background-color: rgb(254, 93, 68);
+}
+
+tr:hover{
+    background-color: rgb(91, 91, 248);
+}
